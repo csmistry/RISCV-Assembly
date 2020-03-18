@@ -1,7 +1,7 @@
 ##################################################
 ## Name:    Reflex Meter with Infinite Counter	##
-## Purpose:	Reaction Time Measurement	 		##
-## Author:	Chintan Mistry & Nitish Vobbalareddy##
+## Purpose:	Reaction Time Measurement	##
+## Author: Chintan Mistry & Nitish Vobbalareddy ##
 ##################################################
 
 # Start of the data section
